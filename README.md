@@ -2,9 +2,11 @@
 
 This project was developed as part of an Artificial Neural Networks and Deep Learning course at Politecnico di Milano (2021/2022). It was organized as an Codalab competition among students groups.
 
-## Authours
+## Authors
 
-TODO: add names
+- [Kinga](https://github.com/Astenna)
+- [Marco](https://github.com/zenimarc)
+- Andreas
 
 ## Problem description
 
